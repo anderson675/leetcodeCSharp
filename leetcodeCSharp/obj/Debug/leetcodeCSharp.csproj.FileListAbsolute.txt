@@ -1,0 +1,6 @@
+/Users/anderson675/Programming/leetcodeCSharp/leetcodeCSharp/leetcodeCSharp/bin/Debug/leetcodeCSharp.exe
+/Users/anderson675/Programming/leetcodeCSharp/leetcodeCSharp/leetcodeCSharp/bin/Debug/leetcodeCSharp.pdb
+/Users/anderson675/Programming/leetcodeCSharp/leetcodeCSharp/leetcodeCSharp/obj/Debug/leetcodeCSharp.csprojResolveAssemblyReference.cache
+/Users/anderson675/Programming/leetcodeCSharp/leetcodeCSharp/leetcodeCSharp/obj/Debug/leetcodeCSharp.csproj.CoreCompileInputs.cache
+/Users/anderson675/Programming/leetcodeCSharp/leetcodeCSharp/leetcodeCSharp/obj/Debug/leetcodeCSharp.exe
+/Users/anderson675/Programming/leetcodeCSharp/leetcodeCSharp/leetcodeCSharp/obj/Debug/leetcodeCSharp.pdb
