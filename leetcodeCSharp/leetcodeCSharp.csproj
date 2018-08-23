@@ -48,11 +48,17 @@
     <Compile Include="Properties\main.cs" />
     <Compile Include="Properties\MergeTwoBinaryTrees617.cs" />
     <Compile Include="Properties\MiddleOfTheLinkedList876.cs" />
+    <Compile Include="Properties\NumberComplement476.cs" />
+    <Compile Include="Properties\NumberOfLinesToWriteString806.cs" />
     <Compile Include="Properties\PeakIndexInAMountainArray852.cs" />
     <Compile Include="Properties\ProjectionAreaOf3DShape883.cs" />
+    <Compile Include="Properties\ReverseString344.cs" />
+    <Compile Include="Properties\ReverseWordsInAString557.cs" />
     <Compile Include="Properties\SelfDividingNumbers728.cs" />
+    <Compile Include="Properties\SubdomainVisitCount811.cs" />
     <Compile Include="Properties\toLowerCase709.cs" />
     <Compile Include="Properties\TransposeMatrix867.cs" />
+    <Compile Include="Properties\UncommonWordsFromTwoSentences884.cs" />
     <Compile Include="Properties\UniqueMorseRepresentations804.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
