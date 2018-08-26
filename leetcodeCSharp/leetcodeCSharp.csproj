@@ -40,9 +40,13 @@
   <ItemGroup>
     <Compile Include="Properties\766ToeplitzMatrix.cs" />
     <Compile Include="Properties\ArrayPartitionI561.cs" />
+    <Compile Include="Properties\BaseballGame682.cs" />
     <Compile Include="Properties\BinaryGap868.cs" />
+    <Compile Include="Properties\DistributeCandies575.cs" />
+    <Compile Include="Properties\FizzBuzz412.cs" />
     <Compile Include="Properties\FlippingAnImage832.cs" />
     <Compile Include="Properties\HammingDistance461.cs" />
+    <Compile Include="Properties\IslandPerimeter463.cs" />
     <Compile Include="Properties\JewelsAndStones771.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\JudgeRouteCircle657.cs" />
@@ -63,6 +67,7 @@
     <Compile Include="Properties\SubdomainVisitCount811.cs" />
     <Compile Include="Properties\toLowerCase709.cs" />
     <Compile Include="Properties\TransposeMatrix867.cs" />
+    <Compile Include="Properties\TrimABinarySearchTree669.cs" />
     <Compile Include="Properties\UncommonWordsFromTwoSentences884.cs" />
     <Compile Include="Properties\UniqueMorseRepresentations804.cs" />
   </ItemGroup>
