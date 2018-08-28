@@ -38,10 +38,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Properties\590N-aryTreePostorderTraversalcs.cs" />
     <Compile Include="Properties\766ToeplitzMatrix.cs" />
     <Compile Include="Properties\ArrayPartitionI561.cs" />
+    <Compile Include="Properties\AverageOfLevelsInBinaryTree637.cs" />
     <Compile Include="Properties\BaseballGame682.cs" />
     <Compile Include="Properties\BinaryGap868.cs" />
+    <Compile Include="Properties\BinaryNumberWithAlternatingBits693.cs" />
     <Compile Include="Properties\DistributeCandies575.cs" />
     <Compile Include="Properties\FizzBuzz412.cs" />
     <Compile Include="Properties\FlippingAnImage832.cs" />
@@ -53,18 +56,25 @@
     <Compile Include="Properties\KeyboardRow500.cs" />
     <Compile Include="Properties\LeafSimilarTrees872.cs" />
     <Compile Include="Properties\main.cs" />
+    <Compile Include="Properties\MaximumDepthOfBinaryTree104.cpp.cs" />
     <Compile Include="Properties\MaximumDepthOfNaryTree559.cs" />
     <Compile Include="Properties\MergeTwoBinaryTrees617.cs" />
     <Compile Include="Properties\MiddleOfTheLinkedList876.cs" />
+    <Compile Include="Properties\NextGreaterElementI496.cs" />
     <Compile Include="Properties\NumberComplement476.cs" />
     <Compile Include="Properties\NumberOfLinesToWriteString806.cs" />
     <Compile Include="Properties\PeakIndexInAMountainArray852.cs" />
+    <Compile Include="Properties\PrimeNumberOfSetBitsInBinaryRepresentation762.cs" />
     <Compile Include="Properties\ProjectionAreaOf3DShape883.cs" />
+    <Compile Include="Properties\ReshapeTheMatrix566.cs" />
     <Compile Include="Properties\ReverseString344.cs" />
     <Compile Include="Properties\ReverseWordsInAString557.cs" />
+    <Compile Include="Properties\SearchInABinarySearchTree700.cs" />
     <Compile Include="Properties\SelfDividingNumbers728.cs" />
     <Compile Include="Properties\ShortestDistanceToACharacter821.cs" />
+    <Compile Include="Properties\SingleNumber136.cs" />
     <Compile Include="Properties\SubdomainVisitCount811.cs" />
+    <Compile Include="Properties\SurfaceAreaOf3DShapes892.cs" />
     <Compile Include="Properties\toLowerCase709.cs" />
     <Compile Include="Properties\TransposeMatrix867.cs" />
     <Compile Include="Properties\TrimABinarySearchTree669.cs" />
