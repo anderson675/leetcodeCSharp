@@ -46,9 +46,12 @@
     <Compile Include="Properties\BinaryGap868.cs" />
     <Compile Include="Properties\BinaryNumberWithAlternatingBits693.cs" />
     <Compile Include="Properties\DistributeCandies575.cs" />
+    <Compile Include="Properties\FairCandySwap888.cs" />
     <Compile Include="Properties\FizzBuzz412.cs" />
     <Compile Include="Properties\FlippingAnImage832.cs" />
+    <Compile Include="Properties\GoatLatin824.cs" />
     <Compile Include="Properties\HammingDistance461.cs" />
+    <Compile Include="Properties\InvertBinaryTree226.cs" />
     <Compile Include="Properties\IslandPerimeter463.cs" />
     <Compile Include="Properties\JewelsAndStones771.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -60,7 +63,9 @@
     <Compile Include="Properties\MaximumDepthOfNaryTree559.cs" />
     <Compile Include="Properties\MergeTwoBinaryTrees617.cs" />
     <Compile Include="Properties\MiddleOfTheLinkedList876.cs" />
+    <Compile Include="Properties\N-aryTreePreorderTraversal589.cs" />
     <Compile Include="Properties\NextGreaterElementI496.cs" />
+    <Compile Include="Properties\NimGame292.cs" />
     <Compile Include="Properties\NumberComplement476.cs" />
     <Compile Include="Properties\NumberOfLinesToWriteString806.cs" />
     <Compile Include="Properties\PeakIndexInAMountainArray852.cs" />
