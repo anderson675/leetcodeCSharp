@@ -38,15 +38,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Properties\1-bitAnd2-bitCharacters717.cs" />
     <Compile Include="Properties\590N-aryTreePostorderTraversalcs.cs" />
     <Compile Include="Properties\766ToeplitzMatrix.cs" />
+    <Compile Include="Properties\893GroupOfSpecialEquivalentStrings.cs" />
     <Compile Include="Properties\ArrayPartitionI561.cs" />
     <Compile Include="Properties\AverageOfLevelsInBinaryTree637.cs" />
     <Compile Include="Properties\BaseballGame682.cs" />
     <Compile Include="Properties\BinaryGap868.cs" />
     <Compile Include="Properties\BinaryNumberWithAlternatingBits693.cs" />
+    <Compile Include="Properties\DegreeOfAnArray697.cs" />
     <Compile Include="Properties\DistributeCandies575.cs" />
     <Compile Include="Properties\FairCandySwap888.cs" />
+    <Compile Include="Properties\FindAllNumbersDisappearedInAnArray448.cs" />
     <Compile Include="Properties\FizzBuzz412.cs" />
     <Compile Include="Properties\FlippingAnImage832.cs" />
     <Compile Include="Properties\GoatLatin824.cs" />
@@ -58,11 +62,16 @@
     <Compile Include="Properties\JudgeRouteCircle657.cs" />
     <Compile Include="Properties\KeyboardRow500.cs" />
     <Compile Include="Properties\LeafSimilarTrees872.cs" />
+    <Compile Include="Properties\LongestContinuousIncreasingSubsequence674.cs" />
     <Compile Include="Properties\main.cs" />
+    <Compile Include="Properties\MajorityElement169.cs" />
+    <Compile Include="Properties\MaxAreaOfIsland695.cs" />
+    <Compile Include="Properties\MaxConsecutiveOnes485.cs" />
     <Compile Include="Properties\MaximumDepthOfBinaryTree104.cpp.cs" />
     <Compile Include="Properties\MaximumDepthOfNaryTree559.cs" />
     <Compile Include="Properties\MergeTwoBinaryTrees617.cs" />
     <Compile Include="Properties\MiddleOfTheLinkedList876.cs" />
+    <Compile Include="Properties\MoveZeroes283.cs" />
     <Compile Include="Properties\N-aryTreePreorderTraversal589.cs" />
     <Compile Include="Properties\NextGreaterElementI496.cs" />
     <Compile Include="Properties\NimGame292.cs" />
