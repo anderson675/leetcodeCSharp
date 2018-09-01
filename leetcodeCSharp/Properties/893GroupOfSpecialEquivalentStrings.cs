@@ -16,6 +16,8 @@ namespace leetcodeCSharp
                 while( i < S.Length && ch == S[i])
                 {
                     currCnt++;
+                    
+                    
                     i++;
                 }
             
