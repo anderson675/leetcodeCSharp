@@ -69,6 +69,8 @@
     <Compile Include="Properties\MajorityElement169.cs" />
     <Compile Include="Properties\MaxAreaOfIsland695.cs" />
     <Compile Include="Properties\MaxConsecutiveOnes485.cs" />
+    <Compile Include="Properties\MaximizeDistanceToClosetPerson849.cs" />
+    <Compile Include="Properties\MaximumAverageSubarrayI643.cs" />
     <Compile Include="Properties\MaximumDepthOfBinaryTree104.cpp.cs" />
     <Compile Include="Properties\MaximumDepthOfNaryTree559.cs" />
     <Compile Include="Properties\MergeTwoBinaryTrees617.cs" />
